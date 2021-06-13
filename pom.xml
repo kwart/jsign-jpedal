@@ -3,7 +3,7 @@
 
     <groupId>com.github.kwart.jsign</groupId>
     <artifactId>jsign-jpedal</artifactId>
-    <version>4.92.13</version>
+    <version>4.92.14-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>${project.artifactId}</name>
@@ -61,7 +61,7 @@
         <connection>scm:git:git://github.com/kwart/jsign-jpedal.git</connection>
         <developerConnection>scm:git:git@github.com:kwart/jsign-jpedal.git</developerConnection>
         <url>http://github.com/kwart/jsign-jpedal/</url>
-        <tag>v4.92.13</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
