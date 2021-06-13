@@ -1,11 +1,9 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.kwart.jsign</groupId>
     <artifactId>jsign-jpedal</artifactId>
-    <version>4.92.13-SNAPSHOT</version>
+    <version>4.92.13</version>
     <packaging>jar</packaging>
 
     <name>${project.artifactId}</name>
@@ -63,7 +61,7 @@
         <connection>scm:git:git://github.com/kwart/jsign-jpedal.git</connection>
         <developerConnection>scm:git:git@github.com:kwart/jsign-jpedal.git</developerConnection>
         <url>http://github.com/kwart/jsign-jpedal/</url>
-        <tag>HEAD</tag>
+        <tag>v4.92.13</tag>
     </scm>
 
     <distributionManagement>
